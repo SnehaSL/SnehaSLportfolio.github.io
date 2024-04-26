@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "MATLAB",
+        "icon": "https://allaboutcircuits.com/uploads/thumbnails/_80_80/Matlab_Logo.png"
+    },
+
+    {
+        "name": "C",
+        "icon": "https://hiremee.co.in/assets/hiremee-revamp/images/products/coding-images/icon-Cprogramming.png"
+    },
+    
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name":"TensorFlow",
+        "icon":"https://cdn.icon-icons.com/icons2/2699/PNG/96/tensorflow_logo_icon_168671.png"
+    },
+
+
+    {
+        "name":"Numpy",
+        "icon":"https://www.nelsonnet.com.au/NelsonNetDashboard/Templates/img/logo_n.png?v=8.1.0"
+    },
+    {
+        "name":"PyTorch",
+        "icon":"https://talmo.dk/images/icon_pytorch.png"
+    },
+    {
+        "name":"RaspberryPi",
+        "icon":"https://retropie.org.uk/forum/assets/uploads/profile/10517-profileavatar.jpeg"
+    },
+    {
+        "name":"VS code",
+        "icon":"https://dhcg6fggqfmn7.cloudfront.net/_next/static/images/vs-code-255d229b7c31aa6f9306cc2c0396e4fc.png"
+    },
+    
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+
+    {
+        "name": "ORACLE",
+        "icon": "https://avatars.githubusercontent.com/u/4430336?s=64&v=4"
+    },
+    
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+
+]
