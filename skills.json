@@ -40,10 +40,6 @@
         "name":"RaspberryPi",
         "icon":"https://retropie.org.uk/forum/assets/uploads/profile/10517-profileavatar.jpeg"
     },
-    {
-        "name":"VS code",
-        "icon":"https://dhcg6fggqfmn7.cloudfront.net/_next/static/images/vs-code-255d229b7c31aa6f9306cc2c0396e4fc.png"
-    },
     
     {
         "name": "HTML5",
@@ -57,6 +53,10 @@
         "name": "JavaScript",
         "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
     },
+    {
+        "name":"NoSQL",
+        "icon":"https://th.bing.com/th/id/OIP.GvNsaE2Slp20WzlAtTbfwgAAAA?rs=1&pid=ImgDetMain"
+    },
 
     {
         "name": "ORACLE",
@@ -67,17 +67,17 @@
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
-        {
+    {
         "name": "ReactJS",
         "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
-    },
-    {
         "name": "NodeJS",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "jQuery",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     }
 
 ]
