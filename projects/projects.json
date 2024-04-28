@@ -82,8 +82,8 @@
     }
   },
     {
-    "name": "Intelligent Fan Control",
-    "desc": "Human Detection using DL and Python Threading",
+    "name": "Intelligent Appliance Control",
+    "desc": "Human and Occupancy Detection using DL and Python Threading",
     "image": "fanproj1",
     "category": "solo",
     "links": {
