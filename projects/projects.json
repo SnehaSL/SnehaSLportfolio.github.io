@@ -80,6 +80,16 @@
       "view": "https://www.linkedin.com/in/snehalakshmi1106/",
       "code": "https://github.com/SnehaSL"
     }
+  },
+    {
+    "name": "Intelligent Fan Control",
+    "desc": "Human Detection using DL and Python Threading",
+    "image": "fanproj",
+    "category": "solo",
+    "links": {
+      "view": "https://www.linkedin.com/in/snehalakshmi1106/",
+      "code": "https://github.com/SnehaSL"
+    }
   }
 
 ]
