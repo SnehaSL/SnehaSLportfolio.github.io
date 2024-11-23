@@ -33,17 +33,9 @@
         "icon":"https://www.nelsonnet.com.au/NelsonNetDashboard/Templates/img/logo_n.png?v=8.1.0"
     },
     {
-<<<<<<< HEAD
+
         "name":"Flutter",
-        "icon":"https://sl.bing.net/klArKEuA6O4"
-=======
-        "name":"PyTorch",
-        "icon":"https://talmo.dk/images/icon_pytorch.png"
-    },
-    {
-        "name":"RaspberryPi",
-        "icon":"https://retropie.org.uk/forum/assets/uploads/profile/10517-profileavatar.jpeg"
->>>>>>> 6b955f4b4183b5982725d1e35da9b709d1e6993f
+        "icon":"https://img.icons8.com/color/48/000000/flutter--v1.png"
     },
     
     {
